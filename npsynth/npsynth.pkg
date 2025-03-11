@@ -1,5 +1,22 @@
-d 'DEA': Data envelopment analysis
+d 'npsynth': Nonparametric Synthetic Control Method Use npsynth With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f covariancemat.ado
+f covariancemat.hlp
+f mahapick.ado
+f mahapick.hlp
+f mahascore.ado
+f mahascore.hlp
+f mahascore2.ado
+f mahascore2.hlp
+f mahascores.ado
+f mahascores.hlp
+f mahaselectunique.ado
+f mahaselectunique.hlp
+f npsynth.ado
+f npsynth.sthlp
+f screenmatches.ado
+f screenmatches.hlp
+f stackids.ado
+f stackids.hlp
+f variancemat.ado
+f variancemat.hlp
