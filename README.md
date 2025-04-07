@@ -1,6 +1,8 @@
 # npsynth
 Nonparametric Synthetic Control Method Use npsynth With STATA 18
 
+https://www.youtube.com/watch?v=Ab3_QFCuJJo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
